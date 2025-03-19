@@ -4,14 +4,14 @@
 👩🏻‍💻 Curious SAP Data Engineer specializing in AI, Data Analytics, and Development<br/>
 🎓 Master’s student in Applied AI <br/>
 📊 Expert in SAP BI & Data Analytics, Virtual Data Models (VDM), CDS Views, SAC, and SAP UI5/Fiori <br/>
-🐶 My Puppy Carlo is my best Teammate 
-🧪 Experimenting with my own machine learning pet projects 
+🐶 My Puppy Carlo is my best Teammate <br/>
+
 📚 Projects & Interests
 
 💡 Building AI-driven analytics solutions for SAP environments<br/>
 📊 Developing interactive dashboards and real time reports with SAP Analytics Cloud (SAC)<br/>
 📱 Creating intuitive SAP UI5/Fiori applications for data visualization<br/>
-🍏 Experimenting with my own little Machine learning Pet projects <br/>
+🧪 Experimenting with my own machine learning pet projects <br/>
 📝 Writing blogs and sharing my thoughts about AI, Data Analytics, and SAP innovations on Medium<br/>
 
 🌐 Connect With Me
