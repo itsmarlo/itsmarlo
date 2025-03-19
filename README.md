@@ -2,7 +2,7 @@
 
 
 👩🏻‍💻 Curious SAP Data Engineer specializing in AI, Data Analytics, and Development<br/>
-🎓 Master’s student in Applied AI <br/>
+🎓 Master's degree in Applied AI <br/>
 📊 Expert in SAP BI & Data Analytics, Virtual Data Models (VDM), CDS Views, SAC, and SAP UI5/Fiori <br/>
 🐶 My Puppy Carlo is my best Teammate <br/>
 
