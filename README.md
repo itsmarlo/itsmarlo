@@ -14,12 +14,12 @@
 🧪 Experimenting with my own machine learning pet projects <br/>
 📝 Writing blogs and sharing my thoughts about AI, Data Analytics, and SAP innovations on Medium<br/>
 
-🌐 Connect With Me
+🌐 Open to collaborations, mentorship, and knowledge sharing? let’s connect! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marshwaiki/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@marwah.shwaiki) 
 
 
 
-📩 Open to collaborations, mentorship, and knowledge sharing ? let’s connect! 🚀
+
 
 
 
