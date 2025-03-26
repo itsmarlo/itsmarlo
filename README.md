@@ -3,7 +3,7 @@
 
 👩🏻‍💻 Curious SAP BI Expert specializing in AI, Data Analytics, and Development<br/>
 🎓 Master's degree in Applied AI <br/>
-📊 Expert in Data Analytics & AI  <br/>
+📊 Expert in SAP Data Analytics & AI  <br/>
 🐶 My Puppy Carlo is my best Teammate <br/>
 
 📚 Projects & Interests
