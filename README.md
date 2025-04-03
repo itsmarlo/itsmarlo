@@ -1,9 +1,8 @@
 ## Hi i'm Marva 🌱
 
 
-👩🏻‍💻 Curious SAP Data Analytics and AI Expert <br/>
+👩🏻‍💻 Curious SAP Data Analytics and AI/ML Expert <br/>
 🎓 Master's degree in Applied AI <br/>
-📊 Expert in SAP Data Analytics & AI  <br/>
 🐶 My Puppy Carlo is my best Teammate <br/>
 
 📚 Projects & Interests
