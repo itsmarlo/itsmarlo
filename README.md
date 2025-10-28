@@ -136,6 +136,6 @@ flowchart LR
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
     %% Neon-inspired color scheme
-    style good fill:#00E5FF,stroke:#00B8D4,stroke-width:5px,color:#000
-    style bad fill:#FF4081,stroke:#C2185B,stroke-width:5px,color:#000
+    style bad fill:#00E5FF,stroke:#00B8D4,stroke-width:5px,color:#000
+    style good fill:#FF4081,stroke:#C2185B,stroke-width:5px,color:#000
     style entry fill:#FFFF00,stroke:#FDD835,stroke-width:5px,color:#
