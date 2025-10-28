@@ -136,10 +136,9 @@ flowchart LR
     %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    %% Styling (SAP-inspired palette)
-    style 1 stroke:#0077B5,stroke-width:3px,fill:#E6F4FF,color:#000
-    style 2 stroke:#6C757D,stroke-width:3px,fill:#F8F9FA,color:#000
-    style success fill:#D1FADF,stroke:#00796B,stroke-width:2px,color:#000
-    style regret fill:#FEE2E2,stroke:#DC2626,stroke-width:2px,color:#000
-
-
+    %% Visible color-safe styles (GitHub supported)
+    style 1 fill:#E6F4FF,stroke:#0077B5,stroke-width:3px,color:#000,font-weight:bold
+    style 2 fill:#F8F9FA,stroke:#6C757D,stroke-width:3px,color:#000
+    style success fill:#C7F9CC,stroke:#16A34A,stroke-width:2px,color:#000
+    style regret fill:#FECACA,stroke:#DC2626,stroke-width:2px,color:#000
+    style 3 fill:#FEF9C3,stroke:#F59E0B,stroke-width:2px,color:#000,font-weight:bold
