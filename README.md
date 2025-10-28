@@ -130,14 +130,14 @@ flowchart LR
     entry --> bad
 
     good --> success["Enjoy Smooth Deployments 🚀"]
-    bad  --> regret["Cry in Production Logs 😅"]
+    bad --> regret["Cry in Production Logs 😅"]
 
     %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    %% Bright styles that work on GitHub
-    style good fill:#CFE8FF,stroke:#0066CC,stroke-width:4px,color:#000
-    style bad fill:#F0F0F0,stroke:#909090,stroke-width:3px,color:#000
-    style entry fill:#FFF8C4,stroke:#F59E0B,stroke-width:3px,color:#000
-    style success fill:#B2F5EA,stroke:#00BFA6,stroke-width:3px,color:#000
-    style regret fill:#FFD6D6,stroke:#FF3333,stroke-width:3px,color:#000
+    %% Darker, more contrasty styles
+    style good fill:#B7DBFF,stroke:#004C99,stroke-width:5px,color:#000
+    style bad fill:#E5E5E5,stroke:#444444,stroke-width:5px,color:#000
+    style entry fill:#FFE97F,stroke:#C47F00,stroke-width:5px,color:#000
+    style success fill:#7FEAC6,stroke:#006B5B,stroke-width:5px,color:#000
+    style regret fill:#FFB3B3,stroke:#990000,stroke-width:5px,color:#000
