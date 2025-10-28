@@ -114,23 +114,30 @@ flowchart LR
     direction LR
 
     %% Success path
-    subgraph 1[" "]
+    subgraph good[" "]
         direction TB
-        top1[Find Marla's Profile 💡] --> bottom1[Hire Marla 🤝]
+        top1[Find Marla's Profile 💡] --> hired[Hire Marla 🤝]
     end
 
     %% Failure path
-    subgraph 2[" "]
+    subgraph bad[" "]
         direction TB
-        top2[Ignore This Chance 🙈] --> bottom2[Keep Debugging Forever 😭]
+        skip[Ignore This Chance 🙈] --> pain[Keep Debugging Forever 😭]
     end
 
     %% Entry and outcomes
-    3[Got a Data or AI Problem 🧠💥] --> 1
-    3 --> 2
+    entry[Got a Data or AI Problem 🧠💥] --> good
+    entry --> bad
 
-    1 --> success["Enjoy Smooth Deployments 🚀"]
-    2 --> regret["Cry in Production Logs 😅"]
+    good --> success["Enjoy Smooth Deployments 🚀"]
+    bad  --> regret["Cry in Production Logs 😅"]
 
     %% Clickable link
-    click top1 "https://www.linkedin.com/in/itsmarl
+    click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
+
+    %% Bright styles that work on GitHub
+    style good fill:#CFE8FF,stroke:#0066CC,stroke-width:4px,color:#000
+    style bad fill:#F0F0F0,stroke:#909090,stroke-width:3px,color:#000
+    style entry fill:#FFF8C4,stroke:#F59E0B,stroke-width:3px,color:#000
+    style success fill:#B2F5EA,stroke:#00BFA6,stroke-width:3px,color:#000
+    style regret fill:#FFD6D6,stroke:#FF3333,stroke-width:3px,color:#000
