@@ -109,30 +109,38 @@
 
 ---
 
+---
+
 ### 🧩 The easiest way to solve your AI problems:
 
 ```mermaid
 flowchart LR
     direction LR
 
+    %% Success path
     subgraph 1[" "]
         direction TB
-        top1[Find Marla's Profile 💡] --> bottom1[Hire her 🤝]
+        top1[Find Marla's Profile 💡] --> bottom1[Hire Marla 🤝]
     end
 
+    %% Failure path
     subgraph 2[" "]
         direction TB
         top2[Ignore This Chance 🙈] --> bottom2[Keep Debugging Forever 😭]
     end
 
+    %% Entry and outcomes
     3[Got a Data or AI Problem 🧠💥] --> 1
     3 --> 2
 
     1 --> success["Enjoy Smooth Deployments 🚀"]
     2 --> regret["Cry in Production Logs 😅"]
 
+    %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    style 1 stroke:#0e8f00,stroke-width:4px
-    style 2 stroke:#f70707,stroke-width:4px
-
+    %% Styling
+    style 1 stroke:#4FD1C5,stroke-width:3px,fill:#E6FFFA,color:#000
+    style 2 stroke:#9F7AEA,stroke-width:3px,fill:#FAF5FF,color:#000
+    style success fill:#C6F6D5,stroke:#38A169,stroke-width:2px,color:#000
+    style regret fill:#FED7D7,stroke:#E53E3E,stroke-width:2px,color:#000
