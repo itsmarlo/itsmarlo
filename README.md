@@ -135,9 +135,9 @@ flowchart LR
     %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    %% Darker, more contrasty styles
-    style good fill:#B7DBFF,stroke:#004C99,stroke-width:5px,color:#000
-    style bad fill:#E5E5E5,stroke:#444444,stroke-width:5px,color:#000
-    style entry fill:#FFE97F,stroke:#C47F00,stroke-width:5px,color:#000
-    style success fill:#7FEAC6,stroke:#006B5B,stroke-width:5px,color:#000
-    style regret fill:#FFB3B3,stroke:#990000,stroke-width:5px,color:#000
+    %% Neutral dark-gray styling for consistent arrows
+    style good fill:#DCEBFF,stroke:#333333,stroke-width:4px,color:#000
+    style bad fill:#F2F2F2,stroke:#333333,stroke-width:4px,color:#000
+    style entry fill:#FFF3BF,stroke:#333333,stroke-width:4px,color:#000
+    style success fill:#C9F7F5,stroke:#333333,stroke-width:4px,color:#000
+    style regret fill:#FFD6D6,stroke:#333333,stroke-width:4px,color:#000
