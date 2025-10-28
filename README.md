@@ -106,7 +106,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
----
 
 ### 🧩 The easiest way to solve your AI problems:
 
@@ -134,11 +133,4 @@ flowchart LR
     2 --> regret["Cry in Production Logs 😅"]
 
     %% Clickable link
-    click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
-
-    %% Visible color-safe styles (GitHub supported)
-    style 1 fill:#E6F4FF,stroke:#0077B5,stroke-width:3px,color:#000,font-weight:bold
-    style 2 fill:#F8F9FA,stroke:#6C757D,stroke-width:3px,color:#000
-    style success fill:#C7F9CC,stroke:#16A34A,stroke-width:2px,color:#000
-    style regret fill:#FECACA,stroke:#DC2626,stroke-width:2px,color:#000
-    style 3 fill:#FEF9C3,stroke:#F59E0B,stroke-width:2px,color:#000,font-weight:bold
+    click top1 "https://www.linkedin.com/in/itsmarl
