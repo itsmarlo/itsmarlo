@@ -106,9 +106,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-
----
-
 ---
 
 ### 🧩 The easiest way to solve your AI problems:
@@ -139,8 +136,10 @@ flowchart LR
     %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    %% Styling
-    style 1 stroke:#4FD1C5,stroke-width:3px,fill:#E6FFFA,color:#000
-    style 2 stroke:#9F7AEA,stroke-width:3px,fill:#FAF5FF,color:#000
-    style success fill:#C6F6D5,stroke:#38A169,stroke-width:2px,color:#000
-    style regret fill:#FED7D7,stroke:#E53E3E,stroke-width:2px,color:#000
+    %% Styling (SAP-inspired palette)
+    style 1 stroke:#0077B5,stroke-width:3px,fill:#E6F4FF,color:#000
+    style 2 stroke:#6C757D,stroke-width:3px,fill:#F8F9FA,color:#000
+    style success fill:#D1FADF,stroke:#00796B,stroke-width:2px,color:#000
+    style regret fill:#FEE2E2,stroke:#DC2626,stroke-width:2px,color:#000
+
+
