@@ -115,7 +115,7 @@ flowchart LR
 
     subgraph 1[" "]
         direction TB
-        top1[Find Marla's Profile 💡] --> bottom1[Hire Marla 🤝]
+        top1[Find Marla's Profile 💡] --> bottom1[Hire her 🤝]
     end
 
     subgraph 2[" "]
