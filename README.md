@@ -135,9 +135,4 @@ flowchart LR
     %% Clickable link
     click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
 
-    %% Neutral dark-gray styling for consistent arrows
-    style good fill:#DCEBFF,stroke:#333333,stroke-width:4px,color:#000
-    style bad fill:#F2F2F2,stroke:#333333,stroke-width:4px,color:#000
-    style entry fill:#FFF3BF,stroke:#333333,stroke-width:4px,color:#000
-    style success fill:#C9F7F5,stroke:#333333,stroke-width:4px,color:#000
-    style regret fill:#FFD6D6,stroke:#333333,stroke-width:4px,color:#000
+    %% Use consistent dark-gray stroke so all arrows appear dark gray
