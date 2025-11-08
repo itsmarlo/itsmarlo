@@ -8,7 +8,7 @@
 
 📚 Projects & Interests
 
-💡 Building AI-driven analytics solutions for SAP environments<br/>
+💡 Building AI-driven analytics solutions on the SAP ecosystem <br/>
 📱 Creating intuitive SAP UI5/Fiori applications for data visualization<br/>
 🧪 Experimenting with my own machine learning pet projects <br/>
 📝 Writing blogs and sharing my thoughts about AI, Data Analytics, and SAP innovations on Medium<br/>
