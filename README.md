@@ -2,7 +2,7 @@
 
 
 👩🏻‍💻 Curious SAP Data Analytics and AI/ML Expert <br/>
-👩🏻‍💻 Official SAP AI Mentor  <br/>
+💛 Official SAP AI Mentor  <br/>
 🎓 Master's degree in Applied AI <br/>
 🐶 My Puppy Carlo is my best Teammate <br/>
 
