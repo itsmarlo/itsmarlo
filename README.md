@@ -48,7 +48,7 @@
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD54A.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-
+![LangChain](https://img.shields.io/badge/LangChain-%2300C7B7.svg?style=for-the-badge&logoColor=white)
 ---
 
 **Frameworks & Backend**  
