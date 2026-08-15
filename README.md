@@ -8,10 +8,13 @@
 
 📚 Projects & Interests
 
-💡 Building AI-driven analytics solutions on the SAP ecosystem <br/>
-📱 Creating intuitive SAP UI5/Fiori applications for data visualization<br/>
-🧪 Experimenting with my own machine learning pet projects <br/>
-📝 Writing blogs and sharing my thoughts about AI, Data Analytics, and SAP innovations on Medium<br/>
+## Projects & Interests
+
+🤖 Building AI and machine learning solutions in the SAP ecosystem, with a focus on SAP HANA ML, ISLM, and BTP AI<br/>
+📊 Designing data and analytics architectures with SAP Datasphere, Business Data Cloud, HANA Cloud, and SAC<br/>
+🧠 Exploring predictive AI, tabular foundation models, Knowledge Graphs, and agentic AI for enterprise use cases<br/>
+🛠️ Experimenting with Python, PyTorch, Hugging Face, MCP, and AI-assisted development workflows<br/>
+🎤 Sharing practical experiences from SAP Data & AI projects through technical blogs, conference talks, and community contributions<br/>
 
 🌐 Open to collaborations, mentorship, and knowledge sharing? Let’s connect! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmarla/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marla.208) 
