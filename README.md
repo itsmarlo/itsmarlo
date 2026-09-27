@@ -5,8 +5,6 @@
 🎓 Master's degree in Data Science and Applied AI  
 🐶 My puppy Carlo is my favorite teammate  
 
----
-
 ## 🚀 What I Work On
 
 🤖 Building AI and machine learning solutions across the SAP ecosystem, with a focus on **SAP BTP, SAP AI Core, Generative AI Hub, HANA ML, and ISLM**  
