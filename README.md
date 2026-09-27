@@ -3,12 +3,10 @@
 
 👩🏻‍💻 Curious SAP Data and AI/ML Engineer <br/>
 💛 Official SAP AI Mentor  <br/>
-🎓 Master's degree in Applied AI <br/>
+🎓 Master's degree in Data Science and Applied AI <br/>
 🐶 My Puppy Carlo is my best Teammate <br/>
 
-📚 Projects & Interests
-
-## Projects & Interests
+## 📚 Projects & Interests
 
 🤖 Building AI and machine learning solutions in the SAP ecosystem, with a focus on SAP HANA ML, ISLM, and BTP AI<br/>
 📊 Designing data and analytics architectures with SAP Datasphere, Business Data Cloud, HANA Cloud, and SAC<br/>
