@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Marla 🌱
 
 👩🏻‍💻 SAP Data & AI/ML Engineer focused on building enterprise AI solutions  
@@ -108,7 +107,8 @@ Open to collaborations, technical discussions, mentorship, and knowledge sharing
 
 ---
 
-# 🧩 SAP Data + AI, from Architecture to Production
+# 🧩 struggling with your Data/AI Pipelines? 
+
 
 ```mermaid
 flowchart LR
@@ -159,31 +159,17 @@ flowchart LR
     style bad fill:#00E5FF,stroke:#0097A7,stroke-width:4px,color:#000
     style success fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
     style regret fill:#FF8A80,stroke:#D50000,stroke-width:4px,color:#000
-```
 
----
+📊 GitHub Stats
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=itsmarlo&theme=radical&hide_border=false)
+🏆 GitHub Trophies
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+🔝 Top Contributed Repositories
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=itsmarlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
-### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=itsmarlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=itsmarlo&icon=0&color=0)](https://visitcount.itsvg.in)
-```
