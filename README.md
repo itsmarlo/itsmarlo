@@ -104,35 +104,38 @@
 
 ### 🧩 The easiest way to solve your AI problems:
 
-```mermaid
 flowchart LR
     direction LR
 
-    %% Success path
+    %% The productive path
     subgraph good[" "]
         direction TB
-        top1[Find Marla's Profile 💡] --> hired[Hire Marla 🤝]
+        profile["Find Marla's Profile 👩‍💻"] --> connect["Let's Build Something 🤝"]
+        connect --> solution["SAP + Data + AI Solution 🧠"]
     end
 
-    %% Failure path
+    %% The alternative path
     subgraph bad[" "]
         direction TB
-        skip[Ignore This Chance 🙈] --> pain[Keep Debugging Forever 😭]
+        ignore["Ignore This Profile 🙈"] --> manual["Keep Doing It Manually 🫠"]
+        manual --> logs["Debug Production Logs at 2 AM 😭"]
     end
 
-    %% Entry and outcomes
-    entry[Got a Data or AI Problem 🧠💥] --> good
-    entry --> bad
+    %% Entry
+    problem["Enterprise Data or AI Problem? 💥"] --> good
+    problem --> bad
 
-    good --> success["Enjoy Smooth Deployments 🚀"]
-    bad  --> regret["Cry in Production Logs 😅"]
+    %% Outcomes
+    solution --> success["Production-Ready AI 🚀"]
+    logs --> regret["Back to Stack Overflow 🔍"]
 
-    %% Clickable link
-    click top1 "https://www.linkedin.com/in/itsmarlo/" "Visit Marla's LinkedIn"
+    %% LinkedIn
+    click profile "https://www.linkedin.com/in/itsmarla/" "Connect with Marla on LinkedIn"
 
-    %% Neon-inspired color scheme with black font
-    style good fill:#FF4081,stroke:#C2185B,stroke-width:5px,color:#000
-    style bad fill:#00E5FF,stroke:#00B8D4,stroke-width:5px,color:#000
-    style entry fill:#FFFF00,stroke:#FDD835,stroke-width:5px,color:#000
-    style success fill:#69F0AE,stroke:#00C853,stroke-width:5px,color:#000
-    style regret fill:#FF8A80,stroke:#D50000,stroke-width:5px,color:#000
+    %% Styling
+    style problem fill:#FFFF00,stroke:#F9A825,stroke-width:4px,color:#000
+    style good fill:#FF4081,stroke:#C2185B,stroke-width:4px,color:#000
+    style bad fill:#00E5FF,stroke:#0097A7,stroke-width:4px,color:#000
+    style solution fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
+    style success fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
+    style regret fill:#FF8A80,stroke:#D50000,stroke-width:4px,color:#000
