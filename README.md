@@ -107,69 +107,43 @@ Open to collaborations, technical discussions, mentorship, and knowledge sharing
 
 ---
 
-# 🧩 struggling with your Data/AI Pipelines? 
-
 
 ```mermaid
 flowchart LR
-    direction LR
 
-    problem["Enterprise Data or AI Problem? 🧠💥"]
-
-    subgraph good["The productive path 🚀"]
+    %% The productive path
+    subgraph good[" "]
         direction TB
-        profile["Find Marla's Profile 👩‍💻"]
-        connect["Let's Build Something 🤝"]
-        architecture["Design the Architecture 🏗️"]
-        data["Connect Enterprise Data 📊"]
-        ai["Build AI / ML / Agents 🤖"]
-        deploy["Deploy & Integrate ⚙️"]
-
-        profile --> connect
-        connect --> architecture
-        architecture --> data
-        data --> ai
-        ai --> deploy
+        profile["Find Marla's Profile 👩‍💻"] --> connect["Let's Build Something 🤝"]
+        connect --> solution["SAP + Data + AI Solution 🧠"]
     end
 
-    subgraph bad["The alternative path 🫠"]
+    %% The alternative path
+    subgraph bad[" "]
         direction TB
-        ignore["Ignore This Profile 🙈"]
-        manual["Keep Doing Everything Manually"]
-        debug["Debug Production Logs at 2 AM 😭"]
-        stack["Search Stack Overflow Again 🔍"]
-
-        ignore --> manual
-        manual --> debug
-        debug --> stack
+        ignore["Ignore This Profile 🙈"] --> manual["Keep Doing It Manually 🫠"]
+        manual --> logs["Debug Production Logs at 2 AM 😭"]
     end
 
-    problem --> profile
-    problem --> ignore
+    %% Entry
+    problem["Enterprise Data or AI Problem? 💥"] --> good
+    problem --> bad
 
-    deploy --> success["Production-Ready Enterprise AI 🚀"]
-    stack --> regret["Maybe Check Marla's Profile After All 👀"]
+    %% Outcomes
+    good --> success["Production-Ready AI 🚀"]
+    bad --> regret["Back to Stack Overflow 🔍"]
 
-    regret -.-> profile
-
+    %% LinkedIn
     click profile "https://www.linkedin.com/in/itsmarla/" "Connect with Marla on LinkedIn"
 
+    %% Styling
     style problem fill:#FFFF00,stroke:#F9A825,stroke-width:4px,color:#000
     style good fill:#FF4081,stroke:#C2185B,stroke-width:4px,color:#000
     style bad fill:#00E5FF,stroke:#0097A7,stroke-width:4px,color:#000
+    style solution fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
     style success fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
     style regret fill:#FF8A80,stroke:#D50000,stroke-width:4px,color:#000
-
-📊 GitHub Stats
-
-
-
-🏆 GitHub Trophies
-
-
-🔝 Top Contributed Repositories
-
-
+```
 
 
 
