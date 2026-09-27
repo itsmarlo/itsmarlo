@@ -1,141 +1,189 @@
-## Hi i'm Marla 🌱
+```markdown
+# Hi, I'm Marla 🌱
 
-
-👩🏻‍💻 Curious SAP Data and AI/ML Engineer <br/>
-💛 Official SAP AI Mentor  <br/>
-🎓 Master's degree in Data Science and Applied AI <br/>
-🐶 My Puppy Carlo is my best Teammate <br/>
-
-## 📚 Projects & Interests
-
-🤖 Building AI and machine learning solutions in the SAP ecosystem, with a focus on SAP HANA ML, ISLM, and BTP AI<br/>
-📊 Designing data and analytics architectures with SAP Datasphere, Business Data Cloud, HANA Cloud, and SAC<br/>
-🧠 Exploring predictive AI, tabular foundation models, Knowledge Graphs, and agentic AI for enterprise use cases<br/>
-🛠️ Experimenting with Python, PyTorch, Hugging Face, MCP, and AI-assisted development workflows<br/>
-🎤 Sharing practical experiences from SAP Data & AI projects through technical blogs, conference talks, and community contributions<br/>
-
-🌐 Open to collaborations, mentorship, and knowledge sharing? Let’s connect! 🚀
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmarla/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marla.208) 
-
-
-
-
-# 💻 Tech Stack:
- ### 🧠 Tech Stack
-
-**Languages & Core Tools**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+👩🏻‍💻 SAP Data & AI/ML Engineer focused on building enterprise AI solutions  
+💛 Official SAP AI Mentor  
+🎓 Master's degree in Data Science and Applied AI  
+🐶 My puppy Carlo is my favorite teammate  
 
 ---
 
-**Data Science & Machine Learning**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+## 🚀 What I Work On
+
+🤖 Building AI and machine learning solutions across the SAP ecosystem, with a focus on **SAP BTP, SAP AI Core, Generative AI Hub, HANA ML, and ISLM**  
+
+📊 Designing data and analytics architectures with **SAP Datasphere, SAP Business Data Cloud, SAP HANA Cloud, and SAP Analytics Cloud**  
+
+🧠 Exploring **Generative AI, RAG, Agentic AI, Knowledge Graphs, Tabular Foundation Models, and Predictive AI** for enterprise use cases  
+
+⚙️ Building production-oriented AI applications with **Python, PyTorch, Hugging Face, FastAPI, LangChain, MCP, and vector databases**  
+
+🏗️ Working on scalable AI architectures, data pipelines, model integration, deployment, and enterprise AI enablement  
+
+🎤 Sharing practical experiences from SAP Data & AI projects through **technical blogs, conference talks, workshops, and community contributions**
+
+---
+
+## 🌐 Let's Connect
+
+Open to collaborations, technical discussions, mentorship, and knowledge sharing around **SAP, Data Engineering, Machine Learning, and Enterprise AI** 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmarla/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marla.208)
+
+---
+
+# 💻 Tech Stack
+
+## 🧠 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD54A.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
 ---
 
-**Frameworks & Backend**  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+## ☁️ SAP Data & AI
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Datasphere](https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP AI Core](https://img.shields.io/badge/SAP%20AI%20Core-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Generative AI Hub](https://img.shields.io/badge/Generative%20AI%20Hub-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+## 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+## 🧑🏻‍💻 Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🗄️ Data Engineering & Databases
+
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-**Frontend & UI/UX**  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+## ⚙️ DevOps & CI/CD
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-**Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 🛠️ Collaboration & Engineering Tools
+
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-**DevOps & CI/CD**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+# 🧩 SAP Data + AI, from Architecture to Production
 
----
-
-**Project & Collaboration Tools**  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsmarlo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsmarlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsmarlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=itsmarlo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-
-### 🧩 The easiest way to solve your AI problems:
-
+```mermaid
 flowchart LR
     direction LR
 
-    %% The productive path
-    subgraph good[" "]
+    problem["Enterprise Data or AI Problem? 🧠💥"]
+
+    subgraph good["The productive path 🚀"]
         direction TB
-        profile["Find Marla's Profile 👩‍💻"] --> connect["Let's Build Something 🤝"]
-        connect --> solution["SAP + Data + AI Solution 🧠"]
+        profile["Find Marla's Profile 👩‍💻"]
+        connect["Let's Build Something 🤝"]
+        architecture["Design the Architecture 🏗️"]
+        data["Connect Enterprise Data 📊"]
+        ai["Build AI / ML / Agents 🤖"]
+        deploy["Deploy & Integrate ⚙️"]
+
+        profile --> connect
+        connect --> architecture
+        architecture --> data
+        data --> ai
+        ai --> deploy
     end
 
-    %% The alternative path
-    subgraph bad[" "]
+    subgraph bad["The alternative path 🫠"]
         direction TB
-        ignore["Ignore This Profile 🙈"] --> manual["Keep Doing It Manually 🫠"]
-        manual --> logs["Debug Production Logs at 2 AM 😭"]
+        ignore["Ignore This Profile 🙈"]
+        manual["Keep Doing Everything Manually"]
+        debug["Debug Production Logs at 2 AM 😭"]
+        stack["Search Stack Overflow Again 🔍"]
+
+        ignore --> manual
+        manual --> debug
+        debug --> stack
     end
 
-    %% Entry
-    problem["Enterprise Data or AI Problem? 💥"] --> good
-    problem --> bad
+    problem --> profile
+    problem --> ignore
 
-    %% Outcomes
-    solution --> success["Production-Ready AI 🚀"]
-    logs --> regret["Back to Stack Overflow 🔍"]
+    deploy --> success["Production-Ready Enterprise AI 🚀"]
+    stack --> regret["Maybe Check Marla's Profile After All 👀"]
 
-    %% LinkedIn
+    regret -.-> profile
+
     click profile "https://www.linkedin.com/in/itsmarla/" "Connect with Marla on LinkedIn"
 
-    %% Styling
     style problem fill:#FFFF00,stroke:#F9A825,stroke-width:4px,color:#000
     style good fill:#FF4081,stroke:#C2185B,stroke-width:4px,color:#000
     style bad fill:#00E5FF,stroke:#0097A7,stroke-width:4px,color:#000
-    style solution fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
     style success fill:#69F0AE,stroke:#00C853,stroke-width:4px,color:#000
     style regret fill:#FF8A80,stroke:#D50000,stroke-width:4px,color:#000
+```
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=itsmarlo&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmarlo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=itsmarlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=itsmarlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=itsmarlo&icon=0&color=0)](https://visitcount.itsvg.in)
+```
